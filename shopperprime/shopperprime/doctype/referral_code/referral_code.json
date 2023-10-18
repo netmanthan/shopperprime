@@ -1,7 +1,7 @@
 {
  "actions": [],
  "autoname": "field:referral_name",
- "creation": "2021-07-29 02:49:20.639686",
+ "creation": "2023-07-29 02:49:20.639686",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
@@ -109,7 +109,7 @@
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2021-07-29 22:28:54.158213",
+ "modified": "2023-07-29 22:28:54.158213",
  "modified_by": "Administrator",
  "module": "shopperprime",
  "name": "Referral Code",

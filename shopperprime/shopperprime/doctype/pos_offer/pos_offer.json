@@ -2,7 +2,7 @@
  "actions": [],
  "allow_rename": 1,
  "autoname": "field:title",
- "creation": "2021-06-06 14:05:24.843820",
+ "creation": "2023-06-06 14:05:24.843820",
  "doctype": "DocType",
  "editable_grid": 1,
  "engine": "InnoDB",
@@ -308,7 +308,7 @@
   }
  ],
  "index_web_pages_for_search": 1,
- "modified": "2021-07-25 17:09:55.634113",
+ "modified": "2023-07-25 17:09:55.634113",
  "modified_by": "Administrator",
  "module": "shopperprime",
  "name": "POS Offer",
