@@ -1,0 +1,2 @@
+# ShopperFrameworks   # https://github.com/netmanthan/shopperframeworks is installed during bench-init
+# ShopperPrime   # https://github.com/netmanthan/ShopperPrime it should be installed manually
