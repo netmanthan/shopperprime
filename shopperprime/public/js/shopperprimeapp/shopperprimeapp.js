@@ -20,7 +20,7 @@ frappe.PosApp.shopperprimeapp = class {
                         themes: {
                             light: {
                                 background: '#FFFFFF',
-                                primary: '#0097A7',
+                                primary: '#23282f',
                                 secondary: '#00BCD4',
                                 accent: '#9575CD',
                                 success: '#66BB6A',
