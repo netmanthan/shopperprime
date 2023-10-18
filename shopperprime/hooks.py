@@ -8,7 +8,7 @@ app_publisher = "NETMANTHAN"
 app_description = "ShopperPrime"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "netmanthan@ShopperSolutions.com"
+app_email = "netmanthan@shopersolutions.com"
 app_license = "GPLv3"
 
 # Includes in <head>

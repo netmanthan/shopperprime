@@ -12,7 +12,7 @@ setup(
     version=version,
     description="ShopperPrime",
     author="Jawahar R Mallah",
-    author_email="connect@ShopperSolutions.com",
+    author_email="connect@shopersolutions.com",
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,

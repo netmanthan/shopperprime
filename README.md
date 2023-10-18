@@ -24,7 +24,7 @@ One-click installing available if you are hosting on FC from [here](https://netm
 
 #### Self Hosting:
 
-1. `bench get-app branch version-14 https://github.com/netmanthan/ShopperPrime.git`
+1. `bench get-app branch https://github.com/netmanthan/ShopperPrime.git`
 2. `bench setup requirements`
 3. `bench build --app shopperprime`
 4. `bench restart`
@@ -38,7 +38,7 @@ One-click installing available if you are hosting on FC from [here](https://netm
 
 #### Self Hosting:
 
-If you need premium support please email me [here](mailto:info@ShopperSolutions.com)
+If you need premium support please email me [here](mailto:info@ShoperSolutions.com)
 
 #### Community Support:
 
@@ -49,7 +49,7 @@ Available in GitHub [discussions](https://github.com/netmanthan/ShopperPrime/dis
 ### New Features and Bug report:
 
 - Please Create Github Issue from [here](https://github.com/netmanthan/ShopperPrime/issues/new/choose) after checking the existing issues
-- For paid features, you can email me [here](mailto:info@ShopperSolutions.com)
+- For paid features, you can email me [here](mailto:info@shopersolutions.com)
 
 ---
 
@@ -65,10 +65,15 @@ Available in GitHub [discussions](https://github.com/netmanthan/ShopperPrime/dis
 - `F7` submit payments
 - `F3` Sales Return
 - `F4` Hold Existing Bill
-- `F5` Recall Holded Bill
+- `F5` Recall Held Bill
+- `F8` Pay By Cash
+- `F9` Pay By Credit Card
+- `F10` Pay By UPI
 - `CTRL or CMD + D` remove the first item from the top
 - `CTRL or CMD + A` expand the first item from the top
 - `CTRL or CMD + E` focus on discount field
+
+AND many more
 
 ---
 
