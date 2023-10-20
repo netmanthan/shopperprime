@@ -39,7 +39,7 @@
             hide-details
             v-model.number="qty"
             type="number"
-            @keyup.enter="enter_event"
+            @keydown.enter="enter_event"
             @keydown.esc="esc_event"
           ></v-text-field>
         </v-col>
