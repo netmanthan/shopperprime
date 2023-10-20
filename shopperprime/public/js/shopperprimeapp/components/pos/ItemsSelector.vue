@@ -601,6 +601,7 @@ export default {
       }, 200),
     },
   },
+  
 
   created: function () {
     this.$nextTick(function () {});
@@ -612,6 +613,17 @@ export default {
         ? 'card'
         : 'list';
     });
+
+    keyHandler() ;{
+      this.onkeydown = null;
+      // do something
+    }
+
+    element.onkeydown = keyHandler;
+
+    element.onkeyup = function () {
+      this.onkeydown = keyHandler;
+    };
     evntBus.$on('update_cur_items_details', () => {
       this.update_cur_items_details();
     });
