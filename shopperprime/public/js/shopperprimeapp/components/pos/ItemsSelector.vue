@@ -404,7 +404,7 @@ export default {
     get_item_qty(first_search) {
       let scal_qty = Math.abs(this.qty);
       if (first_search.startsWith(this.pos_profile.posa_scale_barcode_start)) {
-        let pesokg1 = first_search.substr(8, 5);
+        let pesokg1 = first_search.substr(7, 5);
         let pesokg;
         if (pesokg1.startsWith('0000')) {
           pesokg = '0.00' + pesokg1.substr(4);
@@ -429,7 +429,7 @@ export default {
         first_search &&
         first_search.startsWith(this.pos_profile.posa_scale_barcode_start)
       ) {
-        search_term = first_search.substr(0, 8);
+        search_term = first_search.substr(0, 7);
       } else {
         search_term = first_search;
       }
